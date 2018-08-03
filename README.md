@@ -6,5 +6,6 @@ A la racine du projet :
 - Executer la commande sur le terminal => javac @javac.conf src/pluslongmot/*.java
 - Executer la commande sur le terminal => java -cp build/classes pluslongmot/Pluslongmot or jar cvfm Pluslongmot.jar manifest.mf build/classes/pluslongmot/*.class
 
+Jouer au jeu du mot le plus long
 
 
